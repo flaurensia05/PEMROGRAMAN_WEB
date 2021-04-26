@@ -1,4 +1,1 @@
-<?php
-$nama = 'Agus';
-echo 'Nama: ' . $agus;
-?>
+<?php echo "Agus";?>
